@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="66965" started-at="2019-12-05T17:25:20 PKT" finished-at="2019-12-05T17:26:27 PKT">
+  <suite name="Suite" duration-ms="75399" started-at="2019-12-05T20:29:47 PKT" finished-at="2019-12-05T20:31:02 PKT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="66965" started-at="2019-12-05T17:25:20 PKT" finished-at="2019-12-05T17:26:27 PKT">
+    <test name="Test" duration-ms="75399" started-at="2019-12-05T20:29:47 PKT" finished-at="2019-12-05T20:31:02 PKT">
       <class name="testapk.testcases">
-        <test-method status="PASS" signature="tc1()[pri:1, instance:testapk.testcases@2928854b]" name="tc1" duration-ms="13948" started-at="2019-12-05T17:25:20 PKT" finished-at="2019-12-05T17:25:34 PKT">
+        <test-method status="PASS" signature="tc1()[pri:1, instance:testapk.testcases@2928854b]" name="tc1" duration-ms="20168" started-at="2019-12-05T20:29:47 PKT" finished-at="2019-12-05T20:30:07 PKT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc1 -->
-        <test-method status="PASS" signature="tc2()[pri:2, instance:testapk.testcases@2928854b]" name="tc2" duration-ms="14921" started-at="2019-12-05T17:25:34 PKT" finished-at="2019-12-05T17:25:49 PKT">
+        <test-method status="PASS" signature="tc2()[pri:2, instance:testapk.testcases@2928854b]" name="tc2" duration-ms="16220" started-at="2019-12-05T20:30:07 PKT" finished-at="2019-12-05T20:30:23 PKT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc2 -->
-        <test-method status="PASS" signature="tc3()[pri:3, instance:testapk.testcases@2928854b]" name="tc3" duration-ms="13015" started-at="2019-12-05T17:25:49 PKT" finished-at="2019-12-05T17:26:02 PKT">
+        <test-method status="PASS" signature="tc3()[pri:3, instance:testapk.testcases@2928854b]" name="tc3" duration-ms="13121" started-at="2019-12-05T20:30:23 PKT" finished-at="2019-12-05T20:30:37 PKT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc3 -->
-        <test-method status="PASS" signature="tc4()[pri:4, instance:testapk.testcases@2928854b]" name="tc4" duration-ms="14076" started-at="2019-12-05T17:26:02 PKT" finished-at="2019-12-05T17:26:16 PKT">
+        <test-method status="PASS" signature="tc4()[pri:4, instance:testapk.testcases@2928854b]" name="tc4" duration-ms="14165" started-at="2019-12-05T20:30:37 PKT" finished-at="2019-12-05T20:30:51 PKT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc4 -->
-        <test-method status="PASS" signature="tc5()[pri:5, instance:testapk.testcases@2928854b]" name="tc5" duration-ms="10833" started-at="2019-12-05T17:26:16 PKT" finished-at="2019-12-05T17:26:27 PKT">
+        <test-method status="PASS" signature="tc5()[pri:5, instance:testapk.testcases@2928854b]" name="tc5" duration-ms="11355" started-at="2019-12-05T20:30:51 PKT" finished-at="2019-12-05T20:31:02 PKT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc5 -->
